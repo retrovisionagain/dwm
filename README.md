@@ -1,6 +1,6 @@
 # Simple DWM setup
 ![Screenshot 1](https://github.com/retrovisionagain/dwm/blob/main/dwm.png)
-![Screenshot 2](https://github.com/retrovisionagain/dwm/blob/main/dwm-busy.png)
+![Screenshot 2](https://github.com/retrovisionagain/dwm/blob/main/busy-dwm.png)
 
 This is my dwm configuration files. Here you'll find:
 - dwm
