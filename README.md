@@ -9,7 +9,7 @@ This is my dwm configuration files. Here you'll find:
 
 ## Installation
 ```bash
-git clone https://github.com/retrovisionagain/dwm
+git clone https://github.com/retrovisionagain/dwm.git
 cd dwm
 cd dwmdir
 make && sudo make install
@@ -28,4 +28,9 @@ sudo cp dwm.desktop /usr/local/share/xsessions/
 If you don't
 ```bash
 echo "exec /usr/local/bin/startdwm.sh" >> ~/.xinitrc
+```
+
+Additionally you can add the same invitation as mine in .bashrc:
+```bash
+PS1="\[\e[1;33m\]\w\[\e[0m\]\n\$ "
 ```
